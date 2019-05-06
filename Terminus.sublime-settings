@@ -9,7 +9,7 @@
 				"-i",
 				"-l"
 			],
-			"default": true,
+			"default": false,
 			"enable": true,
 			"env":
 			{
@@ -23,5 +23,5 @@
 		}
 	],
 	"theme": "solarized-dark-higher-contrast",
-	"unix_term": "xterm-256color"
+	"unix_term": "xterm"
 }
