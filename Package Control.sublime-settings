@@ -5,11 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"ExpandRegion",
+		"MagicPython",
 		"orgmode",
 		"OrigamiEmacs",
 		"Package Control",
 		"Rust Enhanced",
-		"RustFmt"
+		"RustFmt",
+		"Terminus"
 	]
 }

@@ -1,6 +1,7 @@
 {
 	"ignored_packages":
 	[
+		"Python",
 		"Rust",
 		"Vintage"
 	]

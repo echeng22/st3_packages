@@ -1,0 +1,27 @@
+{
+	"256color": true,
+	"shell_configs":
+	[
+		{
+			"cmd":
+			[
+				"bash",
+				"-i",
+				"-l"
+			],
+			"default": true,
+			"enable": true,
+			"env":
+			{
+			},
+			"name": "Bash",
+			"platforms":
+			[
+				"linux",
+				"osx"
+			]
+		}
+	],
+	"theme": "solarized-dark-higher-contrast",
+	"unix_term": "xterm-256color"
+}
