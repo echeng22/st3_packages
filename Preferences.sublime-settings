@@ -7,6 +7,6 @@
 		"Rust",
 		"Vintage"
 	],
-	"theme": "Default.sublime-theme",
+	"theme": "Monokai Pro.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
