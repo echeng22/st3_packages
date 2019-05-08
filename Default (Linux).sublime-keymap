@@ -2,6 +2,9 @@
 	{ "keys": ["ctrl+shift+w"], "command": "close_all" },
 	{ "keys": ["ctrl+shift+space"], "command": "expand_region" },
 	{ "keys": ["ctrl+shift+`"], "command": "toggle_terminus_panel" },
+    { "keys": ["ctrl+alt+space"], "command": "expand_region",
+      "args": {"undo": true},
+      "context": [{ "key": "expand_region_soft_undo" }]},
     {
         "keys": ["ctrl+`"], "command": "terminus_open", "args": {
             "cwd": "${file_path:${folder}}"

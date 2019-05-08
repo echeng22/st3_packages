@@ -6,8 +6,10 @@
 	"installed_packages":
 	[
 		"All Autocomplete",
+		"arduino-cli",
 		"ExpandRegion",
 		"Git",
+		"Git blame",
 		"MagicPython",
 		"orgmode",
 		"OrigamiEmacs",
@@ -15,6 +17,7 @@
 		"Rust Enhanced",
 		"RustFmt",
 		"SideBarEnhancements",
-		"Terminus"
+		"Terminus",
+		"Theme - Monokai Pro"
 	]
 }

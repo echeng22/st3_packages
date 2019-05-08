@@ -1,0 +1,10 @@
+{
+    "black_fast": true,
+    "black_skip_string_normalization": true,
+    "black_command": "~/black/venv3/bin/black",
+    "black_on_save": true,
+    "black_target_version": ["py27"],
+    
+    // We enforce this even in strings
+    "trim_trailing_white_space_on_save": true,
+}
