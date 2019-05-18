@@ -19,6 +19,8 @@
 		"RustFmt",
 		"SideBarEnhancements",
 		"sublack",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
 		"Terminus",
 		"Theme - Monokai Pro"
 	]

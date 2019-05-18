@@ -1,0 +1,12 @@
+// SublimeLinter Settings - User
+{
+    "linters": {
+    // The name of the linter you installed
+        "flake8": {
+            // E125 onwards are fixed by black, so shouldn't be highlighted
+            "args": ["--ignore=E203,E265,E231,E501,E741,W503,E124,E125,E127,E128,E129,E131,E201, E202,E203,E221,E222,E225,E227,E228,E241,E261, E271,E272,E275,E301,E302,E303,E304,E305,E306,E401,E402,E502,E703,W391"],
+            "executable": "~/ros_ws/src/real_world/venv/bin/flake8"
+        }
+    },
+}
+
